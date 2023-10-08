@@ -13,7 +13,7 @@ provider "aws" {
     default_tags {
         tags = {
             Owner   = "Diogo Abrantes"
-            Env     = "Producao New Teste"
+            Env     = "Producao"
             Class   = "CLC10"
         }
     }
